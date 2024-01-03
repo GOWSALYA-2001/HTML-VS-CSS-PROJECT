@@ -1,0 +1,52 @@
+
+table th,td{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left:50px;
+    padding-right: 50px;
+    text-align: center;
+    
+}
+#class1{
+    background-image: url(images/bg-elephant.jpg);
+    background-repeat: no-repeat;
+    background-size:500px;
+    padding:20px;
+    margin:20px;
+    width: max-content;
+}
+.super1{
+    margin-right:20px;
+    margin-left: 100px;
+    padding:20px;
+    font-family: Courier, monospace;
+}
+#class2{
+    background-image: url(images/bg-cat.jpg);
+    background-repeat: no-repeat;
+    background-size:500px;
+    padding:20px;
+    margin:20px;
+    width: max-content;
+}
+.super2{
+    margin-right:20px;
+    margin-left: 100px;
+    padding:20px;
+    font-family: Courier, monospace;
+    
+}
+#class3{
+    background-image: url(images/bg-bunny.jpg);
+    background-repeat: no-repeat;
+    background-size:500px;
+    padding:20px;
+    margin:20px;
+    width: max-content;
+}
+.super3{
+    margin-right:20px;
+    margin-left: 100px;
+    padding:20px;
+    font-family: Courier, monospace;
+}

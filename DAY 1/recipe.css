@@ -1,0 +1,62 @@
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+    font-weight:bolder;
+    padding:20px;
+    margin: 20px;
+}
+#super{
+    font-family:  sans-serif;
+    font-size: larger;
+    font-weight: 800;
+    padding-left:10px;
+    margin:20px;
+}
+.sat{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    color: gray;
+    
+}
+#main{
+    font-family:  sans-serif;
+    font-size: large;
+    font-weight: 800;
+    padding-left:10px;
+    margin:20px;
+    
+
+}
+section{
+    background-color:rgb(228, 228, 221);
+    border-radius: 10px;
+    border-width: 4%;
+    padding: 25px;
+    margin: 20px 450px 20px 20px;
+}
+.sleep{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    color: rgb(252, 252, 232);
+    
+    
+}
+p{
+    font-family: sans-serif;
+    font-size: x-larger;
+    font-weight:bolder;
+    text-align: center;
+    border: 2px solid rgb(212, 79, 124);
+    color:rgb(196, 21, 79);
+    border-radius: 20px;
+    padding: 6px;
+    width:61%;
+    line-height: 2;
+    box-decoration-break:unset;
+
+}
+p img{
+    display: inline;
+    vertical-align: middle;
+}

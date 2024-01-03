@@ -1,0 +1,109 @@
+
+img{
+    width:10% ;
+    height:5%;
+    margin-left:59px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+    margin-left: 69px;
+}
+
+
+*{
+    /* Alternative box model*/
+    border-sizing: border-box;
+
+    /* Reset padding and margin on all elements*/
+    padding: 2px;
+    margin: 5px 18px;
+
+}
+html{
+    font-size:18px;
+}
+body{
+    font-family: 'Poppins' sans-serif;
+    line-height:1.55;
+    
+    
+}
+
+
+form input,
+form textarea,
+form button,select{
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    line-height: 1.55;
+    margin-bottom: 10px;
+   
+  
+}
+/* container */
+.container{
+    width:80%;
+    margin:0 auto;
+
+}
+
+.container.small{
+    width: 80%;
+    
+    max-width: 35rem;
+}
+/* Contact */
+.dark{
+    background-color: rgb(255, 255, 255);
+}
+.dark label{
+    color:rgba(0, 0, 0, 0.8);
+}
+form div{
+    margin-bottom: 1.55rem;
+}
+form label{
+    display:block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: start;
+    margin-bottom:.5rem;
+}
+form input,
+form textarea,select{
+    background-color: rgb(225, 222, 222);
+    border:none;
+    padding: 1rem;
+    width:80%;
+    color:rgb(10, 10, 10);
+    resize:none;
+}
+form input:focus,
+form textarea:focus{
+    outline: none;
+    background-color:rgb(225, 222, 222);
+}
+form button{
+    width:100%;
+    cursor:pointer;
+}
+.btn{
+    border:1px solid rgba(37, 6, 237, 0.8);
+    background: transparent;
+    background-color: blue;
+    color:rgb(255, 255, 255);
+    width:84%;
+    border-radius: 20px;
+    padding:16px;
+    
+}
+.btn:hover{
+    background-color: rgb(49, 10, 206);
+    color:rgb(255,255,255);
+}
+
+form button {
+    margin-top: 1rem;
+}
+

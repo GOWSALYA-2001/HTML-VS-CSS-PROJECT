@@ -1,0 +1,51 @@
+h1{
+    font-family:fantasy;
+    font-size:xx-large;;
+    font-weight:1000px;
+    color:rgb(8, 8, 24);
+    letter-spacing: 2px;
+    
+}
+#para1,#para2{
+    
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 10px;
+    color:rgb(70, 69, 70);
+    margin-right:10px;
+    margin-left: 30px;
+    
+}
+#main h4{
+    color:rgb(25, 25, 93);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 2px;
+    margin-right:76px;
+
+}
+#main p{
+    color:rgb(245, 105, 54);
+    font-family: sans-serif;
+    font-size: larger;
+    margin-left: 2px;
+    margin-right:76px;
+}
+#cool h4{
+    color:rgb(25, 25, 93);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 2px;
+    margin-right:76px;
+}
+#cool p{
+    color:rgb(245, 105, 54);
+    font-family:sans-serif;
+    font-size: larger;
+    margin-left: 2px;
+    margin-right:76px;
+}
+*{
+    margin-right:30px;
+    margin-left:30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
