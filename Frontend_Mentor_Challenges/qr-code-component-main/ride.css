@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.super {
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 70%;
+    line-height: 1.6; /* Adjust line-height for better readability */
+    margin: 10px auto; /* Center the container and provide equal margin around it */
+    padding: 20px; /* Add padding to create space between content and border */
+}
+
+img {
+    width: 100%; /* Adjust image width to fill its container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any default spacing */
+    margin-bottom: 20px; /* Add some space below the image */
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px; /* Adjust bottom margin of h1 for spacing */
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-bottom: 20px; /* Adjust bottom margin of p for spacing */
+    text-align: center;
+}
