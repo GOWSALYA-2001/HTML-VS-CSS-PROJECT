@@ -1,0 +1,113 @@
+*{
+    padding: 2px;
+    text-align: center;
+   
+} 
+.glass{
+   /* border:2px solid red;*/
+}
+.shad{
+    border:2px solid white;
+    border-radius:20px;
+    box-sizing: border-box;
+    width:380px;
+    height:500px;
+    margin-left: 430px;
+    background-color: white;
+    margin-top: 15px;
+}
+#two{
+    width:102%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -5.7px;
+}
+body {
+    margin: 0;
+    background-size: cover;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(9, 9, 95);
+    font-weight: bolder;
+    margin-top: 5px;
+    font-size: 20px;
+}
+#class{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+    letter-spacing: -1px;
+    font-weight: 400;
+    font-size:15px;
+}
+.super{
+    
+    border: 1px solid;
+    border-color: aliceblue;
+    display: flex;
+    gap:2rem;
+    background-color:rgb(227, 237, 246);
+    width:90%;
+    height: 15%;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.main{
+    margin:2px;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 10%;
+}
+.dot{
+    color:rgb(3, 3, 74);
+    margin-left: -10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: -1px;
+    font-weight: 600;
+}
+.dot h2{
+    font-size: 15px;
+    
+}
+.dot p{
+    margin-left: -6px;
+    margin-top: -10px;
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+}
+.look{
+    margin-top: 30px;
+    margin-left: 35px;
+    color: rgb(44, 44, 230);
+    font-size: 18px;
+    letter-spacing: -.5px;
+}
+.btn{
+    background-color: rgb(43, 43, 237);
+    width: 90%;
+    padding:10px;
+    border:1px solid;
+    border-color:rgb(206, 191, 191);
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-weight: 900;
+    font-size:18px ;
+    margin-left: 1px;
+}
+#one{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:gray;
+    font-weight: 600;
+    font-size:18px ;
+}
+.attribution {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: 900;
+
+}
