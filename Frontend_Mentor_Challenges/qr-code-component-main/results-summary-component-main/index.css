@@ -1,0 +1,172 @@
+.main{
+    display: flex;
+    gap:-23rem;
+    margin-left: 214px;
+    line-height: 20%;
+    margin-top: 30px;
+}
+.super{
+    background-color: blue;
+    width:33%;
+    height: 80%;
+    line-height: 120%;
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 22px;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    color:white;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+.super p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-left: 32px;
+    
+    
+    margin-top: 50px;
+}
+.dark{
+    background-color: white;
+    border-right: 3px solid rgb(239, 237, 237);
+    border-bottom: 3px solid rgb(239, 237, 237);
+    border-top: 3px solid rgb(239, 237, 237);
+    width:33%;
+    height: 470%;
+    line-height: 120%;
+    margin-left: 20px;
+    text-align: left;
+    border-radius: 22px;
+}
+.dot{
+    height: 190px;
+    width:170px;
+    background-color:rgb(26, 26, 219);
+    display: inline-block;
+    border-radius: 80%;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.dot h1{
+    font-size: 80px;
+}
+span{
+    color: white;
+    display: inline;
+    vertical-align:center;
+}
+.mark{
+    background-color:rgb(244, 240, 240) ;
+    line-height: 50%;
+    width:88%;
+    padding: 18px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.mark h5,p{
+    color: black;
+    display: inline;
+    vertical-align:text-top;
+}
+.mark h5{
+    font-size: 20px;   
+    color: rgb(245, 33, 33);
+}
+.mark p{
+    color: darkblue;
+    margin-left: 140px;
+}
+.mark1{
+    background-color:rgb(246, 246, 239) ;
+    line-height: 50%;
+    width:88%;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.mark1 h5,p{
+    color: black;
+    display: inline;
+    vertical-align:text-top;
+}
+.mark1 h5{
+    font-size: 20px;   
+    color: rgb(243, 243, 37);
+}
+.mark1 p{
+    color: darkblue;
+    margin-left: 140px;
+}
+.mark2{
+    background-color:rgb(231, 245, 244);
+    line-height: 50%;
+    width:88%;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.mark2 h5,p{
+    color: black;
+    display: inline;
+    vertical-align:text-top;
+}
+.mark2 h5{
+    font-size: 20px;   
+    color: rgb(17, 239, 228);
+}
+.mark2 p{
+    color: darkblue;
+    margin-left: 158px;
+}
+.mark3{
+    background-color:rgb(230, 230, 239) ;
+    line-height: 50%;
+    width:88%;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+.mark3 h5,p{
+    color: black;
+    display: inline;
+    vertical-align:text-top;
+}
+.mark3 h5{
+    font-size: 20px;   
+    color: rgb(34, 34, 223);
+}
+.mark3 p{
+    color: darkblue;
+    margin-left: 158px;
+}
+.btn{
+    border: 1px solid;
+    border-color: none;
+    background-color: rgb(2, 2, 53);
+    color: white;
+    padding: 20px;
+    width:90%;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-bottom: 35px;
+    margin-top: 15px;
+}
+.dark{
+    padding: 2px;
+}
+.dark h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(66, 62, 62);
+    margin-bottom: 35px;
+    
+}
