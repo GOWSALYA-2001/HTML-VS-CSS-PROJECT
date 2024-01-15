@@ -1,0 +1,63 @@
+.cool{
+    display: flex;
+    gap:2rem;
+    border: 1px solid;
+    border-color: none;
+    width:60%;
+    background-color: rgb(15, 15, 74);
+    margin: 80px 185px;
+    border-radius: 10px;
+}
+.super{
+    display: flex;
+    gap:2rem;
+}
+.dot img{
+    width:150%;
+    height:100%;
+    background-color: rgb(187, 172, 201);
+    background-size: cover;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 600;
+}
+span{
+    color:rgb(128, 60, 192);
+    font-weight: 600;
+}
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(187, 183, 183);;
+}
+.mark p,
+.mark1 p,
+.mark2 p{
+   margin-top: -17px;
+   font-weight: 300;
+   font-size: 13px;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-transform: uppercase;
+   color:rgb(187, 183, 183);
+}
+.mark h2,
+.mark1 h2{
+    text-transform: lowercase;
+    font-weight: 500;
+    font-size: 27px;
+    color: white;
+}
+.mark2 h2{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 27px;
+    color:white;
+}
+.main{
+    margin: 20px;
+    margin-left: 50px;
+}
