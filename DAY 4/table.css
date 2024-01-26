@@ -1,0 +1,94 @@
+*{
+    padding: 2px;
+    
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: larger;
+    color: rgb(6, 6, 84);
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    width:80%;
+    margin-left: 100px;
+    height: 8.99em;
+}
+tfoot{
+    background-color: rgb(239, 233, 233);
+    height: 3.50em;
+   
+}
+thead{
+    height: 3.50em;
+}
+tbody{
+    height: 20.70em;
+}
+th,td{
+    
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}
+th{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-size:19px ;
+    color: rgb(117, 114, 114);
+    background-color:rgb(1, 46, 65);
+    
+}
+td{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+    color:rgb(71, 70, 70)
+}
+span{
+    font-weight: 900;
+    color: rgb(7, 7, 88);
+}
+tfoot td{
+    color: black;
+    font-weight: 700;
+}
+#super{
+    color:rgb(6, 177, 244);
+    font-weight: 900;
+    background-color: rgb(178, 212, 226);
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+    width:50%;
+}
+#dark{
+    color: rgb(51, 169, 51);
+    font-weight: 900;
+    background-color:rgb(206, 234, 206);
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+    width:50%;
+}
+#light{
+    color: rgb(51, 169, 51);
+    font-weight: 900;
+    background-color:rgb(206, 234, 206);
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+    width:50%;
+}
+#main{
+    color:rgb(247, 46, 46);
+    font-weight: 900;
+    background-color:rgb(230, 192, 192);
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+    width:50%;
+}
